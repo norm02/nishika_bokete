@@ -1,1 +1,2 @@
 # nishika_bokete
+embed_to_predict_notebookフォルダのembed_to_skfやembed_to_ef_debarta_rep_clip_skfにあるconcat_file(df_1_trなど）は、それぞれのファイルをただ単にconcatしただけです。
